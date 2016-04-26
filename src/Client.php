@@ -5,7 +5,6 @@ namespace As3\Modlr\Search\Elastic;
 use As3\Modlr\Metadata\EntityMetadata;
 use As3\Modlr\Metadata\Interfaces\SearchMetadataFactoryInterface;
 use As3\Modlr\Persister\PersisterInterface;
-use As3\Modlr\Persister\Record;
 use As3\Modlr\Search\ClientInterface;
 
 /**
